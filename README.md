@@ -1,12 +1,12 @@
 # Talks Gallery
 
 This talks repo serves two different purpose:
-- **Archive Gallery**
+- **Archive**
 - **Talk Suggestions**
 
-## Archive Gallery
+## Archive
 
-This Archive gallery will contain details of all the talks done in the previous events. The archive can be accessed via this [main talks page](https://chennai-web-group.netlify.com/talks). If you want to contribute to the content of this talks page, kindly fork and modify the [talks.json](https://github.com/chennai-web-group/talks/blob/master/talks.json) file in this repo. This file contains the details of all the talks in JSON format.
+The Archive will contain details of all the talks done in the previous events. The archive can be accessed via this [main talks page](https://chennai-web-group.netlify.com/talks). If you want to contribute to the content of this talks page, kindly fork and modify the [talks.json](https://github.com/chennai-web-group/talks/blob/master/talks.json) file in this repo. This file contains the details of all the talks in JSON format.
 
 ## Talk Suggestion
 
