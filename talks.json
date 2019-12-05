@@ -5,7 +5,7 @@
     "talks": [{
       "title": "A brief intro to SPA routing and routers",
       "speaker": "Gokul Kathirvel",
-      "speaker_profile": "",
+      "speaker_profile": "https://twitter.com/_gokatz",
       "slides": "https://slides.com/gokatz/a-gentle-into-to-spa-router",
       "video": "https://www.youtube.com/watch?v=9E6SY1jf3D4",
       "code": "https://github.com/gokatz/spa-router-demo"
