@@ -29,21 +29,21 @@
     "date": "Spetember 22nd 2019",
     "talks": [{
       "title": "Web application security",
-      "speaker": "",
+      "speaker": "Santhosh",
       "speaker_profile": "",
       "slides": "",
       "video": "",
       "code": ""
     }, {
       "title": "Getting started with 'React js'",
-      "speaker": "",
+      "speaker": "Nikhil kumaran",
       "speaker_profile": "",
       "slides": "",
       "video": "",
       "code": ""
     }, {
       "title": "Modern app with 'Ember Octane'",
-      "speaker": "",
+      "speaker": "Gokul Kathirvel",
       "speaker_profile": "",
       "slides": "https://slides.com/gokatz/ember-octane-demo",
       "video": "",
