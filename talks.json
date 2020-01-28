@@ -1,4 +1,9 @@
 {
+  "upcoming": {
+    "event_name": "Monthly meetup - February 2020",
+    "date": "February 9th 2020",
+    "talks": []
+  },
   "events": [{
     "event_name": "Monthly meetup - November 2019",
     "date": "November 10th 2019",
