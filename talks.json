@@ -1,11 +1,6 @@
 {
-  "upcoming": {
-    "event_name": "Monthly meetup - February 2020",
-    "date": "February 9th 2020",
-    "talks": []
-  },
   "events": [{
-      "event_name": "Monthly meetup - Feb 2020",
+      "event_name": "Monthly meetup - February 2020",
       "date": "February 9th 2020",
       "playlist": "coming soon"
   }, {
