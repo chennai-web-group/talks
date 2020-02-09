@@ -5,9 +5,13 @@
     "talks": []
   },
   "events": [{
+      "event_name": "Monthly meetup - Feb 2020",
+      "date": "February 9th 2020",
+      "playlist": "coming soon"
+  }, {
     "event_name": "Monthly meetup - November 2019",
     "date": "November 10th 2019",
-    "playlist": "https://www.youtube.com/watch?v=68D04JL2eA4&list=PLDssdMsd2WNcVKJ_fV579fBA1ArVvK3Fq"
+    "playlist": "https://www.youtube.com/watch?v=68D04JL2eA4&list=PLDssdMsd2WNcVKJ_fV579fBA1ArVvK3Fq",
     "talks": [{
       "title": "A brief intro to SPA routing and routers",
       "speaker": "Gokul Kathirvel",
@@ -30,7 +34,7 @@
       "video": "https://www.youtube.com/watch?v=68D04JL2eA4",
       "code": ""
     }]
-  },{
+  }, {
     "event_name": "Monthly meetup - September 2019",
     "date": "Spetember 22nd 2019",
     "talks": [{
