@@ -1,8 +1,23 @@
 {
   "events": [{
-      "event_name": "Monthly meetup - February 2020",
-      "date": "February 9th 2020",
-      "playlist": "coming soon"
+    "event_name": "Monthly meetup - February 2020",
+    "date": "February 9th 2020",
+    "playlist": "https://www.youtube.com/watch?v=diYK8Isp38A&list=PLDssdMsd2WNcqjUUy7sB8ao3sl8yt2apq",
+    "talks": [{
+      "title": "Get started with Progressive Web Apps",
+      "speaker": "Harish",
+      "speaker_profile": "https://twitter.com/Dev_Harish95",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=diYK8Isp38A&list=PLDssdMsd2WNcqjUUy7sB8ao3sl8yt2apq",
+      "code": ""
+    }, {
+      "title": "Moving beyond Databases: A Hands-on Introduction to Blockchain",
+      "speaker": "Abhinav",
+      "speaker_profile": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=pEKKo3IJv9s&list=PLDssdMsd2WNcqjUUy7sB8ao3sl8yt2apq&index=2",
+      "code": ""
+    }]
   }, {
     "event_name": "Monthly meetup - November 2019",
     "date": "November 10th 2019",
