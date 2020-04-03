@@ -1,7 +1,14 @@
 {
+  "upcoming": {
+    "event_name": "Monthly meetup - April 2020 #StayHome #StaySafe",
+    "date": "April 11th 2020",
+    "meetup_link": "https://www.meetup.com/Chennai-Web-Meetup/events/269710168/",
+    "talks": []
+  },
   "events": [{
     "event_name": "Monthly meetup - February 2020",
     "date": "February 9th 2020",
+    "meetup_link": "https://www.meetup.com/Chennai-Web-Meetup/events/268184240/",
     "playlist": "https://www.youtube.com/watch?v=diYK8Isp38A&list=PLDssdMsd2WNcqjUUy7sB8ao3sl8yt2apq",
     "talks": [{
       "title": "Get started with Progressive Web Apps",
