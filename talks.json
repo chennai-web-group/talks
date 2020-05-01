@@ -1,5 +1,9 @@
 {
-  "upcoming": {},
+  "upcoming": {
+    "event_name": "Monthly meetup - May 2020 #StayHome #StaySafe",
+    "date": "May 23rd 2020",
+    "meetup_link": "https://www.meetup.com/Chennai-Web-Meetup/events/270360985/"
+  },
   "events": [
     {
       "event_name": "Monthly meetup - April 2020 #StayHome #StaySafe",
