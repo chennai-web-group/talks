@@ -1,10 +1,29 @@
 {
-  "upcoming": {
-    "event_name": "Monthly meetup - Feb 2021",
-    "date": "February 6th 2021",
-    "meetup_link": "https://www.meetup.com/Chennai-Web-Meetup/events/275617243/"
-  },
   "events": [
+    {
+      "event_name": "Monthly meetup - Feb 2021",
+      "date": "February 13th 2021",
+      "meetup_link": "https://www.meetup.com/Chennai-Web-Meetup/events/275617243/",
+      "playlist": "",
+      "talks": [
+        {
+          "title": "Web Component + JSX + ❤️ = Stencil",
+          "speaker": "Gokul Kathirvel",
+          "speaker_profile": "https://twitter.com/_gokatz",
+          "slides": "https://slides.com/gokatz/web-components-stenciljs",
+          "video": "",
+          "code": ""
+        },
+        {
+          "title": "A glimpse of Web Vitals",
+          "speaker": "Harish",
+          "speaker_profile": "https://twitter.com/Dev_Harish95",
+          "slides": "",
+          "video": "",
+          "code": ""
+        }
+      ]
+    },
     {
       "event_name": "Monthly meetup - May 2020 #StayHome #StaySafe",
       "date": "May 23rd 2020",
